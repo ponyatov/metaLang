@@ -6,7 +6,7 @@
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> 2020 MIT License
 
-github: https://github.com/ponyatov/metaL/tree/master/metaLang
+github: https://github.com/ponyatov/metaLang
 
 ## Install
 

@@ -9,7 +9,7 @@ defmodule Metalang.MixProject do
       version: "0.0.1",
       name: "metaLang",
       description: "metaL implementation in Elixir/Erlang [homoiconic (meta)language for source code transformations]",
-      source_url: "https://github.com/ponyatov/metaL/tree/master/metaLang",
+      source_url: "https://github.com/ponyatov/metaLang",
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,
       docs: [extras: ["README.md"]],
@@ -41,7 +41,7 @@ defmodule Metalang.MixProject do
       name: "metalang",
       files: ~w(lib src .formatter.exs mix.exs README* LICENSE*),
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/ponyatov/metaL/tree/master/metaLang"},
+      links: %{"GitHub" => "https://github.com/ponyatov/metaLang"},
       maintainers: ["Dmitry Ponyatov <dponyatov@gmail.com>"]
     ]
   end
