@@ -8,7 +8,7 @@ defmodule Metalang.MixProject do
       app: :metalang,
       version: "0.0.1",
       name: "metaLang",
-      description: "metaLang",
+      description: "metaL implementation in Elixir/Erlang [homoiconic (meta)language for source code transformations]",
       source_url: "https://github.com/ponyatov/metaL/tree/master/metaLang",
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,
